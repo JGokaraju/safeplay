@@ -1,6 +1,6 @@
 requests
 python-dotenv
-numpy
-sounddevice
 Pillow
-# picamera2 is installed via apt: sudo apt install -y python3-picamera2 mpg123 libportaudio2
+gpiozero
+# picamera2 and GPIO backend are installed via apt:
+#   sudo apt install -y python3-picamera2 python3-gpiozero python3-lgpio mpg123
