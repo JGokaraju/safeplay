@@ -1,0 +1,6 @@
+requests
+python-dotenv
+numpy
+sounddevice
+Pillow
+# picamera2 is installed via apt: sudo apt install -y python3-picamera2 mpg123 libportaudio2
